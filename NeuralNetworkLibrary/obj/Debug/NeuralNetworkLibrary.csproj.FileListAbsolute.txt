@@ -1,0 +1,24 @@
+H:\Институт\4 Семестр\ТиМП\Курсовой\TestNN\NeuralNetworkLibrary\obj\Debug\NeuralNetworkLibrary.csprojAssemblyReference.cache
+H:\Институт\4 Семестр\ТиМП\Курсовой\TestNN\NeuralNetworkLibrary\obj\Debug\NeuralNetworkLibrary.csproj.CoreCompileInputs.cache
+H:\Институт\4 Семестр\ТиМП\Курсовой\TestNN\NeuralNetworkLibrary\bin\Debug\NeuralNetworkLibrary.dll
+H:\Институт\4 Семестр\ТиМП\Курсовой\TestNN\NeuralNetworkLibrary\bin\Debug\NeuralNetworkLibrary.pdb
+H:\Институт\4 Семестр\ТиМП\Курсовой\TestNN\NeuralNetworkLibrary\obj\Debug\NeuralNetworkLibrary.dll
+H:\Институт\4 Семестр\ТиМП\Курсовой\TestNN\NeuralNetworkLibrary\obj\Debug\NeuralNetworkLibrary.pdb
+H:\Институт\4 Семестр\ТиМП\Курсовой\TestNN — копия\NeuralNetworkLibrary\bin\Debug\NeuralNetworkLibrary.dll
+H:\Институт\4 Семестр\ТиМП\Курсовой\TestNN — копия\NeuralNetworkLibrary\bin\Debug\NeuralNetworkLibrary.pdb
+H:\Институт\4 Семестр\ТиМП\Курсовой\TestNN — копия\NeuralNetworkLibrary\obj\Debug\NeuralNetworkLibrary.csprojAssemblyReference.cache
+H:\Институт\4 Семестр\ТиМП\Курсовой\TestNN — копия\NeuralNetworkLibrary\obj\Debug\NeuralNetworkLibrary.csproj.CoreCompileInputs.cache
+H:\Институт\4 Семестр\ТиМП\Курсовой\TestNN — копия\NeuralNetworkLibrary\obj\Debug\NeuralNetworkLibrary.dll
+H:\Институт\4 Семестр\ТиМП\Курсовой\TestNN — копия\NeuralNetworkLibrary\obj\Debug\NeuralNetworkLibrary.pdb
+H:\TestNN\NeuralNetworkLibrary\bin\Debug\NeuralNetworkLibrary.dll
+H:\TestNN\NeuralNetworkLibrary\bin\Debug\NeuralNetworkLibrary.pdb
+H:\TestNN\NeuralNetworkLibrary\obj\Debug\NeuralNetworkLibrary.csprojAssemblyReference.cache
+H:\TestNN\NeuralNetworkLibrary\obj\Debug\NeuralNetworkLibrary.csproj.CoreCompileInputs.cache
+H:\TestNN\NeuralNetworkLibrary\obj\Debug\NeuralNetworkLibrary.dll
+H:\TestNN\NeuralNetworkLibrary\obj\Debug\NeuralNetworkLibrary.pdb
+E:\TestNN\NeuralNetworkLibrary\bin\Debug\NeuralNetworkLibrary.dll
+E:\TestNN\NeuralNetworkLibrary\bin\Debug\NeuralNetworkLibrary.pdb
+E:\TestNN\NeuralNetworkLibrary\obj\Debug\NeuralNetworkLibrary.csprojAssemblyReference.cache
+E:\TestNN\NeuralNetworkLibrary\obj\Debug\NeuralNetworkLibrary.csproj.CoreCompileInputs.cache
+E:\TestNN\NeuralNetworkLibrary\obj\Debug\NeuralNetworkLibrary.dll
+E:\TestNN\NeuralNetworkLibrary\obj\Debug\NeuralNetworkLibrary.pdb

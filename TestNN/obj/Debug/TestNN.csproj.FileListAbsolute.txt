@@ -1,0 +1,65 @@
+H:\Институт\4 Семестр\ТиМП\Курсовой\TestNN\TestNN\bin\Debug\TestNN.exe.config
+H:\Институт\4 Семестр\ТиМП\Курсовой\TestNN\TestNN\bin\Debug\TestNN.exe
+H:\Институт\4 Семестр\ТиМП\Курсовой\TestNN\TestNN\bin\Debug\TestNN.pdb
+H:\Институт\4 Семестр\ТиМП\Курсовой\TestNN\TestNN\obj\Debug\TestNN.csprojAssemblyReference.cache
+H:\Институт\4 Семестр\ТиМП\Курсовой\TestNN\TestNN\obj\Debug\TestNN.Properties.Resources.resources
+H:\Институт\4 Семестр\ТиМП\Курсовой\TestNN\TestNN\obj\Debug\TestNN.csproj.GenerateResource.cache
+H:\Институт\4 Семестр\ТиМП\Курсовой\TestNN\TestNN\obj\Debug\TestNN.csproj.CoreCompileInputs.cache
+H:\Институт\4 Семестр\ТиМП\Курсовой\TestNN\TestNN\obj\Debug\TestNN.exe
+H:\Институт\4 Семестр\ТиМП\Курсовой\TestNN\TestNN\obj\Debug\TestNN.pdb
+J:\Институт\4 Семестр\ТиМП\Курсовой\TestNN\TestNN\bin\Debug\TestNN.exe.config
+J:\Институт\4 Семестр\ТиМП\Курсовой\TestNN\TestNN\bin\Debug\TestNN.exe
+J:\Институт\4 Семестр\ТиМП\Курсовой\TestNN\TestNN\bin\Debug\TestNN.pdb
+J:\Институт\4 Семестр\ТиМП\Курсовой\TestNN\TestNN\obj\Debug\TestNN.csprojAssemblyReference.cache
+J:\Институт\4 Семестр\ТиМП\Курсовой\TestNN\TestNN\obj\Debug\TestNN.Form1.resources
+J:\Институт\4 Семестр\ТиМП\Курсовой\TestNN\TestNN\obj\Debug\TestNN.Properties.Resources.resources
+J:\Институт\4 Семестр\ТиМП\Курсовой\TestNN\TestNN\obj\Debug\TestNN.csproj.GenerateResource.cache
+J:\Институт\4 Семестр\ТиМП\Курсовой\TestNN\TestNN\obj\Debug\TestNN.csproj.CoreCompileInputs.cache
+J:\Институт\4 Семестр\ТиМП\Курсовой\TestNN\TestNN\obj\Debug\TestNN.exe
+J:\Институт\4 Семестр\ТиМП\Курсовой\TestNN\TestNN\obj\Debug\TestNN.pdb
+H:\Институт\4 Семестр\ТиМП\Курсовой\TestNN\TestNN\bin\Debug\NeuralNetworkLibrary.dll
+H:\Институт\4 Семестр\ТиМП\Курсовой\TestNN\TestNN\bin\Debug\NeuralNetworkLibrary.pdb
+H:\Институт\4 Семестр\ТиМП\Курсовой\TestNN\TestNN\obj\Debug\TestNN.csproj.CopyComplete
+H:\Институт\4 Семестр\ТиМП\Курсовой\TestNN\TestNN\obj\Debug\TestNN.MainForm.resources
+H:\Институт\4 Семестр\ТиМП\Курсовой\TestNN — копия\TestNN\bin\Debug\TestNN.exe.config
+H:\Институт\4 Семестр\ТиМП\Курсовой\TestNN — копия\TestNN\bin\Debug\TestNN.exe
+H:\Институт\4 Семестр\ТиМП\Курсовой\TestNN — копия\TestNN\bin\Debug\TestNN.pdb
+H:\Институт\4 Семестр\ТиМП\Курсовой\TestNN — копия\TestNN\bin\Debug\NeuralNetworkLibrary.dll
+H:\Институт\4 Семестр\ТиМП\Курсовой\TestNN — копия\TestNN\bin\Debug\NeuralNetworkLibrary.pdb
+H:\Институт\4 Семестр\ТиМП\Курсовой\TestNN — копия\TestNN\obj\Debug\TestNN.csprojAssemblyReference.cache
+H:\Институт\4 Семестр\ТиМП\Курсовой\TestNN — копия\TestNN\obj\Debug\TestNN.MainForm.resources
+H:\Институт\4 Семестр\ТиМП\Курсовой\TestNN — копия\TestNN\obj\Debug\TestNN.Properties.Resources.resources
+H:\Институт\4 Семестр\ТиМП\Курсовой\TestNN — копия\TestNN\obj\Debug\TestNN.csproj.GenerateResource.cache
+H:\Институт\4 Семестр\ТиМП\Курсовой\TestNN — копия\TestNN\obj\Debug\TestNN.csproj.CoreCompileInputs.cache
+H:\Институт\4 Семестр\ТиМП\Курсовой\TestNN — копия\TestNN\obj\Debug\TestNN.csproj.CopyComplete
+H:\Институт\4 Семестр\ТиМП\Курсовой\TestNN — копия\TestNN\obj\Debug\TestNN.exe
+H:\Институт\4 Семестр\ТиМП\Курсовой\TestNN — копия\TestNN\obj\Debug\TestNN.pdb
+H:\Институт\4 Семестр\ТиМП\Курсовой\TestNN — копия\TestNN\obj\Debug\TestNN.AskForLabelForm.resources
+H:\TestNN\TestNN\bin\Debug\TestNN.exe.config
+H:\TestNN\TestNN\bin\Debug\TestNN.exe
+H:\TestNN\TestNN\bin\Debug\TestNN.pdb
+H:\TestNN\TestNN\bin\Debug\NeuralNetworkLibrary.dll
+H:\TestNN\TestNN\bin\Debug\NeuralNetworkLibrary.pdb
+H:\TestNN\TestNN\obj\Debug\TestNN.csprojAssemblyReference.cache
+H:\TestNN\TestNN\obj\Debug\TestNN.AskForLabelForm.resources
+H:\TestNN\TestNN\obj\Debug\TestNN.MainForm.resources
+H:\TestNN\TestNN\obj\Debug\TestNN.Properties.Resources.resources
+H:\TestNN\TestNN\obj\Debug\TestNN.csproj.GenerateResource.cache
+H:\TestNN\TestNN\obj\Debug\TestNN.csproj.CoreCompileInputs.cache
+H:\TestNN\TestNN\obj\Debug\TestNN.csproj.CopyComplete
+H:\TestNN\TestNN\obj\Debug\TestNN.exe
+H:\TestNN\TestNN\obj\Debug\TestNN.pdb
+E:\TestNN\TestNN\bin\Debug\TestNN.exe.config
+E:\TestNN\TestNN\bin\Debug\TestNN.exe
+E:\TestNN\TestNN\bin\Debug\TestNN.pdb
+E:\TestNN\TestNN\bin\Debug\NeuralNetworkLibrary.dll
+E:\TestNN\TestNN\bin\Debug\NeuralNetworkLibrary.pdb
+E:\TestNN\TestNN\obj\Debug\TestNN.csprojAssemblyReference.cache
+E:\TestNN\TestNN\obj\Debug\TestNN.AskForLabelForm.resources
+E:\TestNN\TestNN\obj\Debug\TestNN.MainForm.resources
+E:\TestNN\TestNN\obj\Debug\TestNN.Properties.Resources.resources
+E:\TestNN\TestNN\obj\Debug\TestNN.csproj.GenerateResource.cache
+E:\TestNN\TestNN\obj\Debug\TestNN.csproj.CoreCompileInputs.cache
+E:\TestNN\TestNN\obj\Debug\TestNN.csproj.CopyComplete
+E:\TestNN\TestNN\obj\Debug\TestNN.exe
+E:\TestNN\TestNN\obj\Debug\TestNN.pdb
